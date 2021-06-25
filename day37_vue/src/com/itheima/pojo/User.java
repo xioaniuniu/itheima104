@@ -8,6 +8,7 @@ public class User {
     String name;
     String city;
     String like;
+	String price;
 
     public User(String name, String city, String like) {
         this.name = name;
