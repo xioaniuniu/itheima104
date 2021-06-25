@@ -10,10 +10,8 @@ public class User {
     String like;
 	String price;
     String ha;
-	public String yy(){
-		System.out.println("hh");
-	}
-
+	
+    String people;
     @Override
     public String toString() {
         return "User{" +
