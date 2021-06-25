@@ -11,7 +11,7 @@ public class User {
 	String price;
     String tt;
        String rr;
-	
+	String gsl;
     @Override
     public String toString() {
         return "User{" +
