@@ -9,6 +9,10 @@ public class User {
     String city;
     String like;
 	String price;
+	
+	public ha(){
+	System.out.println("haahaa");
+	}
 
     public User(String name, String city, String like) {
         this.name = name;
