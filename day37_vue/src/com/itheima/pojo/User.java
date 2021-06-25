@@ -10,7 +10,7 @@ public class User {
     String like;
 	String price;
     String tt;
-  
+       String rr;
 	String gsl;
     @Override
     public String toString() {
