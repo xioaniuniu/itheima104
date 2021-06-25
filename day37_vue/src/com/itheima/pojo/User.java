@@ -9,9 +9,9 @@ public class User {
     String city;
     String like;
 	String price;
-    String ha;
+    String tt;
+    String rr;
 	
-    String people;
     @Override
     public String toString() {
         return "User{" +
