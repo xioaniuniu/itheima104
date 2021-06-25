@@ -9,16 +9,10 @@ public class User {
     String city;
     String like;
 	String price;
-    
+    String ha;
 	public String yy(){
 		System.out.println("hh");
 	}
-
-    public User(String name, String city, String like) {
-        this.name = name;
-        this.city = city;
-        this.like = like;
-    }
 
     @Override
     public String toString() {
