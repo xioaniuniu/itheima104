@@ -9,14 +9,10 @@ public class User {
     String city;
     String like;
 	String price;
-<<<<<<< HEAD
-	String yy;
-=======
-	
-	public ha(){
-	System.out.println("haahaa");
+    
+	public String yy(){
+		System.out.println("hh");
 	}
->>>>>>> 066a4665efe31bdc4f3623c718ef5f01ab05b146
 
     public User(String name, String city, String like) {
         this.name = name;
